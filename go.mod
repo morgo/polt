@@ -12,12 +12,12 @@ require (
 	github.com/siddontang/loggers v1.0.3
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.12.1
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.23.0
 )
 
 require (
 	filippo.io/edwards25519 v1.2.0 // indirect
-	github.com/block/spirit v0.17.1-0.20260911050857-16c62ef306a1
+	github.com/block/spirit v0.17.1-0.20260919205507-7d229daeef76
 )
 
 require (
